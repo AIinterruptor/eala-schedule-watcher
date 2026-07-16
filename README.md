@@ -53,3 +53,4 @@ manually via `workflow_dispatch` for testing.
 
 The workflow's own state-commit step uses the default `GITHUB_TOKEN`
 (scoped `contents: write`) — no PAT required for that step.
+
