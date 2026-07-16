@@ -35,5 +35,3 @@ jobs:
           git add state/state.json
           git diff --staged --quiet || git commit -m "Update state.json [skip ci]"
           git push
-
-# v1.0.1 registration retry
